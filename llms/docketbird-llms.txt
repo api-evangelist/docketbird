@@ -1,0 +1,60 @@
+# DocketBird Help Center
+
+> Help center for DocketBird
+
+## Court Integrations
+
+- [Supported Courts](https://support.docketbird.com/en/articles/11110628-supported-courts.md): DocketBird integrates with thousands of courts
+- [United States Federal Court Support](https://support.docketbird.com/en/articles/6605967-united-states-federal-court-support.md)
+- [How to Integrate DocketBird with PACER MFA](https://support.docketbird.com/en/articles/12486544-how-to-integrate-docketbird-with-pacer-mfa.md): How to set up DocketBird as an MFA app
+- [How to Get Your Federal Court Filings For Free](https://support.docketbird.com/en/articles/12525973-how-to-get-your-federal-court-filings-for-free.md): How to enable DocketBird to receive filing emails from the Court, so that we can download them for free.
+
+## Case Management
+
+- [Archiving Cases](https://support.docketbird.com/en/articles/6112226-archiving-cases.md): How to archive inactive cases
+- [Finding Cases on DocketBird](https://support.docketbird.com/en/articles/16591552-finding-cases-on-docketbird.md): How to find a case on DocketBird
+
+## AutoCalendar AI
+
+- [Overview of AutoCalendar AI](https://support.docketbird.com/en/articles/7875147-overview-of-autocalendar-ai.md): An in-depth description of DocketBird's new AI-based AutoCalendar feature
+- [Frequently Asked Questions about DocketBird AutoCalendar AI](https://support.docketbird.com/en/articles/7875175-frequently-asked-questions-about-docketbird-autocalendar-ai.md)
+- [AutoCalendaring AI Pricing](https://support.docketbird.com/en/articles/7875786-autocalendaring-ai-pricing.md)
+- [How to sync your AutoCalendars with Outlook.com](https://support.docketbird.com/en/articles/7897580-how-to-sync-your-autocalendars-with-outlook-com.md)
+- [How to sync your AutoCalendars with Google Calendar](https://support.docketbird.com/en/articles/7897513-how-to-sync-your-autocalendars-with-google-calendar.md): Syncing your AutoCalendars with Google
+- [How to Delete AutoCalendars](https://support.docketbird.com/en/articles/12286274-how-to-delete-autocalendars.md): Archiving AutoCalendars to Save Fees
+
+## Searching for Cases and Documents
+
+- [Document Search Syntax and Guide](https://support.docketbird.com/en/articles/13536465-document-search-syntax-and-guide.md): How to use DocketBird's powerful document search feature.
+- [Searching for Cook County Circuit Court Cases](https://support.docketbird.com/en/articles/6638001-searching-for-cook-county-circuit-court-cases.md)
+
+## Document Management System Integrations
+
+- [Dropbox Integration](https://support.docketbird.com/en/articles/6086201-dropbox-integration.md)
+- [Supported Document Management Systems](https://support.docketbird.com/en/articles/6605977-supported-document-management-systems.md)
+- [Litify Integration](https://support.docketbird.com/en/articles/6794638-litify-integration.md): How to integrate your DocketBird account with Litify
+- [Filevine Integration](https://support.docketbird.com/en/articles/11510227-filevine-integration.md): How to integrate your Filevine account with DocketBird
+- [Frequently Asked Questions About DocketBird's Clio Integration](https://support.docketbird.com/en/articles/12306104-frequently-asked-questions-about-docketbird-s-clio-integration.md)
+
+## Court Fees
+
+- [How DocketBird reduces your court fees](https://support.docketbird.com/en/articles/6836948-how-docketbird-reduces-your-court-fees.md)
+- [Frequently Asked Questions About Court Fees](https://support.docketbird.com/en/articles/6836970-frequently-asked-questions-about-court-fees.md)
+
+## DocketBird for Libaries
+
+- [Free DocketBird for Libraries](https://support.docketbird.com/en/articles/6798144-free-docketbird-for-libraries.md)
+
+## Pricing and Accounts
+
+- [Overage Fees](https://support.docketbird.com/en/articles/6082607-overage-fees.md): Why we charge case overage fees, and how to avoid them
+- [Canceling Your Subscription](https://support.docketbird.com/en/articles/12285896-canceling-your-subscription.md)
+- [DocketBird Plans and Pricing](https://support.docketbird.com/en/articles/12330565-docketbird-plans-and-pricing.md)
+
+## User Management
+
+- [Removing Users From Your DocketBird Account](https://support.docketbird.com/en/articles/12307665-removing-users-from-your-docketbird-account.md)
+
+## DocketBird APIs
+
+- [DocketBird API and Webhook](https://support.docketbird.com/en/articles/15281460-docketbird-api-and-webhook.md): DocketBird's API enables advanced users to access court data

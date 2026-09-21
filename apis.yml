@@ -1,23 +1,74 @@
 aid: docketbird
+
 name: DocketBird
-description: 'DocketBird is a company surfaced via the API Evangelist harvest backlog (source: legal)
-  and added to the network as a stub for full-pipeline profiling.'
+
+description: "DocketBird provides a comprehensive platform for tracking federal and state court filings, deadlines, and documents. It integrates with all U.S. federal courts and over 7,000 state courts, offering automated calendaring, document delivery, and research tools. Users can start a 30‑day free trial, book demos, and access a searchable database of cases and court information, ensuring they never miss critical legal deadlines."
+
 url: https://raw.githubusercontent.com/api-evangelist/docketbird/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:legal
-x-tier: stub
-x-tier-reason: harvest
-specificationVersion: '0.20'
-created: '2026-09-21'
-modified: '2026-09-21'
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-21 (modular-v1; was harvest)
+
+specificationVersion: "0.20"
+
+created: "2026-09-21"
+
+modified: "2026-09-21"
+
 tags:
 - Company
-apis: []
+- LegalTech
+- CourtFiling
+- DocumentManagement
+- Automation
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/docketbird-llms.txt
+- type: WellKnown
+  url: well-known/docketbird-well-known.yml
+- type: DomainSecurity
+  url: security/docketbird-domain-security.yml
 - type: Website
   url: https://www.docketbird.com/
+- type: Documentation
+  url: https://www.docketbird.com/
+- type: Pricing
+  url: https://www.docketbird.com/pricing
+- type: SignUp
+  url: https://www.docketbird.com/signup
+- type: Login
+  url: https://www.docketbird.com/login
+- type: PrivacyPolicy
+  url: https://www.docketbird.com/privacy_policy
+- type: TermsOfService
+  url: https://www.docketbird.com/terms_of_use
+- type: Support
+  url: https://www.docketbird.com/contact
+
+apis: []
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: Documentation pages return 403 and no machine‑readable spec is available.
+  evidence:
+    - url: https://api.docketbird.com/openapi.json
+      status: 403
+  checked: 2026-09-21
+x-enrichment:
+  date: '2026-09-21'
+  status: enriched
+  artifacts_added: 5
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local
