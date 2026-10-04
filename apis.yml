@@ -23,7 +23,7 @@ tags:
 - Company
 - Legal Tech
 - CourtFiling
-- Document-Management
+- Document Management
 - Automation
 tags_raw:
 - Company
@@ -31,6 +31,7 @@ tags_raw:
 - CourtFiling
 - DocumentManagement
 - Automation
+- Document-Management
 
 maintainers:
 - FN: Kin Lane
